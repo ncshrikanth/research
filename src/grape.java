@@ -1,4 +1,13 @@
 import a;
-class a{
-}
+import a;
+import a;
+
+import a;
+import a;
+import a;
+import a;
+ 
+import a;
+
+
 
