@@ -1,6 +1,6 @@
 class pine {
   
   
-    int a = 0;
+    int a = Integer.parseint("abc");
   
 }
