@@ -4,7 +4,7 @@ public class apple {
  
 	public static void main(String[] args) {
 		
-			Integer.parseint("apple");
+			Integer.parseint("1");
 		 	float = 12f;
 	}
 }
