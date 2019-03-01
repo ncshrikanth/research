@@ -1,6 +1,2 @@
-import shrikanth;
-shrikanth1
-
-d
-shrikanth2
+int a = 0;
  
