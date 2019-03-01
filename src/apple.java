@@ -6,5 +6,6 @@ public class apple {
 		
 			Integer.parseint("1");
 		 	float = 12f;
+			double = 2d;
 	}
 }
