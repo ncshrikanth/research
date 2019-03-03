@@ -1,6 +1,4 @@
-import java.util.ArrayList;
 
-public class apple {
  
 	public static void main(String[] args) {
 		
@@ -8,6 +6,12 @@ public class apple {
 		 	float = 12f;
 			double = 2d;
 			Long = 2l;
+
+a
+a
+a
+a
+
 				
 	}
 }
